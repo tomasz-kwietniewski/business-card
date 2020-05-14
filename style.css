@@ -1,0 +1,42 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *, *::before, *:after {
+    box-sizing: inherit;
+  }
+
+  body {
+    background: #2C2141;
+  }
+
+  .main {
+      background: #F8F8F8;
+      width: 624px;
+      border-radius: 16px;
+      padding: 16px;      
+  }
+
+  .main__picture {
+    
+  }
+
+  .article {
+
+  }
+
+  .article__title {
+
+  }
+
+  .article__title-description {
+
+  }
+
+  .article__text {
+
+  }
+
+  .article__link {
+
+  }
